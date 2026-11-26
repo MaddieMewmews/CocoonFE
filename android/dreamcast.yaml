@@ -15,6 +15,7 @@ scrape:
 
 retroarch:
   flycast: { files: [7z, bin, cdi, chd, cue, elf, gdi, lst, m3u, zip] }
+  parallel_dc: { files: [7z, bin, cdi, chd, cue, dat, elf, gdi, lst, m3u, rar, zip] }
 
 players:
   - name: Flycast
@@ -39,3 +40,4 @@ players:
     files: [7z, bin, cdi, chd, cue, elf, gdi, lst, zip]
 
   - retroarch: flycast
+  - retroarch: parallel_dc

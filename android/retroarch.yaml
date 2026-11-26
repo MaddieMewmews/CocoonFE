@@ -127,6 +127,7 @@ cores:
   nxengine: [exe]
   o2em: [bin, zip, 7z]
   opera: [chd, cue, iso]
+  parallel_dc: { name: ParaLLEl DC, files: [7z, bin, cue, chd, cdi, dat, gdi, m3u, lst, rar, zip] }
   parallel_n64: [bin, n64, ndd, u1, v64, z64, 7z]
   pcsx_rearmed: [bin, cbn, ccd, chd, cue, img, m3u, mdf, pbp, toc]
   picodrive: [32x, 68k, bin, chd, cue, gen, gg, iso, m3u, md, pco, sgd, smd, sms, 7z, zip]
