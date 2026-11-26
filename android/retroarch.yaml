@@ -2,6 +2,7 @@ builds:
   ra64: { app: com.retroarch.aarch64, name: RetroArch (64 bits) }
   ra32: { app: com.retroarch.ra32, name: RetroArch (32 bits) }
   ra: { app: com.retroarch, name: RetroArch }
+  metroida: { app: com.metroidarch.app.aarch64, name: MetroidArch }
 activity: com.retroarch.browser.retroactivity.RetroActivityFuture
 
 launches:
