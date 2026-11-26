@@ -188,3 +188,4 @@ cores:
            tap, x64, x6z, zip]
   yabasanshiro: [bin, ccd, chd, cue, iso, mds, zip]
   yabause: [bin, ccd, chd, cue, iso, m3u, mds, zip]
+  ymir: { name: Emir, files: [bin, ccd, chd, cue, iso, m3u, mds] }

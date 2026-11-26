@@ -48,6 +48,7 @@ players:
     files: [bin, ccd, chd, cue, iso, m3u, mds, toc, zip]
     flags: [clear-task, clear-top]
 
+  - retroarch: ymir
   - retroarch: mednafen_saturn
   - retroarch: yabasanshiro
   - retroarch: yabause
