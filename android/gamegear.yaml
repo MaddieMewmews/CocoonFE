@@ -31,4 +31,4 @@ players:
     files: [gg, zip]
     flags: [clear-task, clear-top]
 
-  - retroarch: [genesis_plus_gx, genesis_plus_gx_wide, smsplus, picodrive, gearsystem]
+  - retroarch: [genesis_plus_gx, genesis_plus_gx_wide, smsplus, picodrive, gearsystem, mesen2]

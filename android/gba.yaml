@@ -55,11 +55,11 @@ players:
     game: uri
     files: [gba, zip]
 
-  - retroarch: [mgba, vba_next, vbam, mednafen_gba, meteor, gpsp]
+  - retroarch: [mgba, vba_next, vbam, mednafen_gba, meteor, gpsp, mesen2]
     builds: [ra64]
-  - retroarch: [vba_next, vbam, mgba, mednafen_gba, meteor, gpsp]
+  - retroarch: [vba_next, vbam, mgba, mednafen_gba, meteor, gpsp, mesen2]
     builds: [ra32]
-  - retroarch: [vba_next, vbam, mgba, mednafen_gba, gpsp, meteor]
+  - retroarch: [vba_next, vbam, mgba, mednafen_gba, gpsp, meteor, mesen2]
     builds: [ra]
 
   - name: GBADuo

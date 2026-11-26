@@ -23,4 +23,4 @@ players:
     game: path
     files: [bin, fds, nes, nsf, qd, rom, unf, unif]
 
-  - retroarch: [nestopia, fceumm, mesen]
+  - retroarch: [nestopia, fceumm, mesen, mesen2]

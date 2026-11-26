@@ -26,6 +26,7 @@ players:
 
   - retroarch: nestopia
   - retroarch: mesen
+  - retroarch: mesen2
   - retroarch: fceumm
   - retroarch: bnes
   - retroarch: quicknes

@@ -59,6 +59,7 @@ players:
   - retroarch: DoubleCherryGB
   - retroarch: tgbdual
   - retroarch: mesen-s
+  - retroarch: mesen2
 
   - name: GBADuo
     app: com.khumam.gbaduo/.library.LaunchActivity

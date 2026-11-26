@@ -12,6 +12,7 @@ scrape:
 
 retroarch:
   mesen-s: { files: [sfc, smc, fig, swc, zip, 7z] }
+  mesen2: { files: [sfc, smc, fig, swc, zip, 7z] }
 
 players:
   - name: Snes9x EX
@@ -20,4 +21,4 @@ players:
     type: application/zip
     files: [bml, bs, bsx, dx2, fig, gb, gbc, gd3, gd7, rom, sfc, smc, st, swc]
 
-  - retroarch: [snes9x, bsnes, bsnes_hd_beta, mesen-s]
+  - retroarch: [snes9x, bsnes, bsnes_hd_beta, mesen-s, mesen2]

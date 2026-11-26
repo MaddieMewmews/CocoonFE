@@ -15,6 +15,7 @@ scrape:
 
 retroarch:
   mesen-s: { files: [sfc, smc, fig, swc, zip, 7z] }
+  mesen2: { files: [sfc, smc, fig, swc, zip, 7z] }
 
 players:
   - name: Snes9x EX
@@ -34,6 +35,7 @@ players:
   - retroarch: bsnes_hd_beta
   - retroarch: snes9x2010
   - retroarch: mesen-s
+  - retroarch: mesen2
   - retroarch: snes9x2005_plus
   - retroarch: bsnes2014_accuracy
   - retroarch: snes9x2005

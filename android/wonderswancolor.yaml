@@ -20,4 +20,4 @@ players:
     type: application/zip
     files: [ws, wsc, pc2, 7z, zip]
 
-  - retroarch: mednafen_wswan
+  - retroarch: mednafen_wswan, mesen2

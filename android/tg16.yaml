@@ -19,4 +19,4 @@ players:
     type: application/zip
     files: [ccd, chd, cue, m3u, pce, sgx, toc]
 
-  - retroarch: [mednafen_pce_fast, mednafen_pce]
+  - retroarch: [mednafen_pce_fast, mednafen_pce, mesen2]

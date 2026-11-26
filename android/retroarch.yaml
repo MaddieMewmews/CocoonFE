@@ -113,6 +113,7 @@ cores:
   melondsds: { name: melonds ds, builds: [ra64, ra], files: [nds, zip, 7z] }
   mesen: [fds, nes, unf, unif, zip, 7z]
   mesen-s: [gb, gbc, zip, 7z]
+  mesen2: { name: MesenCE, files: [sfc, smc, fig, swc, bs, gb, gbc, gba, pce, cue, nes, sms, fc, fds, unf, unif, ws, wsc, pc2, pcv2, sms, gg, sg, mv, zip, 7z] }
   meteor: [gba, zip, 7z]
   mgba: [gb, gbc, zip, 7z]
   mu: [img, pdb, pqa, prc]
